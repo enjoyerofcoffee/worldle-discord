@@ -9,7 +9,7 @@ Obviously inspired by [Worldle](https://en.wikipedia.org/wiki/Worldle), but this
 Since I like to play this game as well, I wanted to add some features that I wanted for myself as well.
 
 <p align="center">
-  <img width="640" alt="Gameplay preview" src="docs/preview.gif" />
+  <img width="640" alt="Gameplay preview" src="docs/preview_vid.gif" />
 </p>
 
 > **This is a showcase, not the full source.** It contains short snippets from a private repo, so it won't build or run on its own. If you'd like to see the full code for a job application or collaboration, open an issue and I can give you read access.
