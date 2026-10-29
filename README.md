@@ -1,6 +1,7 @@
 # Worldle Discord Activity
 
 [![Play on Discord](https://img.shields.io/badge/Play%20on-Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/activities/1558816679297945721) ![User installs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fworldle-discord.netlify.app%2Fapi%2Fstats&query=%24.authorizations&label=Users%20installs&color=5865F2&cacheSeconds=3600) ![Servers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fworldle-discord.netlify.app%2Fapi%2Fstats&query=%24.servers&label=Servers%20installed&color=5865F2&cacheSeconds=3600)
+[![Leaderboard](https://img.shields.io/badge/Leaderboard-View-5865F2)](https://worldle-discord.netlify.app/leaderboard)
 
 A daily country-guessing game that runs inside Discord as an Activity. Everyone gets the same mystery country outline each day. Every wrong guess shows how close you were and which way to go.
 
